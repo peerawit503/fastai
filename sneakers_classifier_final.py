@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # What Sneaker is That?
-# 
-# *Inspiration and foundation from Francisco Ingham and Jeremy Howard. Inspired by [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)*
-
-# Model deployed at https://what-sneaker.onrender.com/.
 
 
 
